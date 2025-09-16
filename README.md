@@ -18,7 +18,7 @@ to withdraw money,deposit.
 ### COMMUNICATION DIAGRAM:
 <img width="1032" height="747" alt="comm diag" src="https://github.com/user-attachments/assets/39823158-a565-42ea-9024-5bcecf29f354" />
 ### SEQUENCE DIAGRAM:
-![SequenceDiagram1](https://github.com/user-attachments/assets/a2a99639-4526-4318-b230-78514a16f8ab)
+![SequenceDiagram1](https://github.com/user-attachments/assets/34ceb2b6-5eb7-4d9f-85ba-286b95d7f10a)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
